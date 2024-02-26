@@ -16,7 +16,7 @@
       "email": "billie@example.com",
       "height": 161,
       "sex": "female",
-      "status": true
+      "status": false
     }
   ]
 }
