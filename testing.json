@@ -1,6 +1,7 @@
 {
   "users": [
     {
+      "username": "Abolela",
       "age": 27,
       "userprofile_image": "https://media.licdn.com/dms/image/D5603AQGDXxAvBvbCyQ/profile-displayphoto-shrink_800_800/0/1700478083521?e=1714003200&v=beta&t=SIa1OEHIfAstJaEU5M2lP9-fH70A8M2Nt3ETzRHsYhE",
       "email": "omarabolela@hotmail.com",
@@ -10,17 +11,12 @@
     },
     {
       "username": "monica",
+      "age": 25,
       "userprofile_image": "https://i.pinimg.com/474x/54/38/50/5438506a71e10a87266d252d7b85365e.jpg",
       "email": "moniCa@example.com",
       "height": 153,
-      "sex": "female"
-    },
-    {
-      "username": "Jay",
-      "age": 23,
-      "email": "omarabolela@hotmail.com",
-      "height": 186,
-      "status": false
+      "sex": "female",
+      "status": true
     }
   ]
 }
