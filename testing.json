@@ -23,7 +23,7 @@
       "age": 32,
       "userprofile_image": "https://i.pinimg.com/474x/54/38/50/5438506a71e10a87266d252d7b85365e.jpg",
       "email": "jack@example.com",
-      "height": 193,
+      "height": null,
       "sex": null,
       "status": true
     }
